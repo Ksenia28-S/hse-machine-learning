@@ -1,1 +1,1 @@
-# Hometasks in Machine Learning course
+# Homework for Machine Learning course
